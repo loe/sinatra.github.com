@@ -69,6 +69,7 @@ Applications {#apps}
 - [Rails Searchable API Doc](http://railsapi.com/) runs on Sinatra
 - [Sinatra Saucer](http://github.com/angelic/sinatra_saucer) JRuby web application frontend for Flying Saucer, which converts xhtml into a pdf
 - [Wink](http://github.com/rtomayko/wink) minimalist blogging engine
+- [Monit-Aggregator](http://github.com/mattfawcett/monit-aggregator) Aggregates monit status pages.
 
 Libraries and extensions {#libs}
 ------------------------
@@ -178,3 +179,4 @@ Companies using Sinatra {#biz}
 - [Swipht Technologies](http://www.swipht.com)
 - [Nth Metal Interactive](http://nthmetal.com)
 - [Osborne Brook](http://osbornebrook.co.uk)
+- [Onehub](http://onehub.com)
